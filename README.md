@@ -1,1 +1,1 @@
-# Lemming
+This is Lemming(Sejin Hong)
